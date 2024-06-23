@@ -1,10 +1,10 @@
 # FOODZONE
 FOOD ORDERING WEBSITE
 
-Consists of Indian Restaurants
+Consists of Indian Restaurants With Diverse Menu Of Food Items To Choose From Various Restaurants ;)
 
-With Diverse Menu Of Food Items
 
-To Choose From Various Restaurants ;)
+
+
 
 
